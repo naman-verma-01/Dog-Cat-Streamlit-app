@@ -4,7 +4,7 @@ import numpy as np
 
 CATEGORIES = ["Dog", "Cat"]  # will use this to convert prediction num to string value
 
-
+#preparing image
 def prepare(filepath):
     IMG_SIZE = 50  # 50 in txt-based
 
